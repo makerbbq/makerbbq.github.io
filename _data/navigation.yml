@@ -6,13 +6,14 @@
   url: "/getting-started/"
   side: left
 
-- title: Our Equipment
-  url: "/equipment/"
+- title: About Us
+  url: "/about/"
   side: left
-
-- title: Our Team
-  url: "/team/"
-  side: left
+  dropdown:
+  - title: Our Equipment
+    url: "/equipment/"
+  - title: Our Team
+    url: "/team/"
 
 # - title: "Templates"
 #   url: "/design/"
