@@ -149,13 +149,13 @@ msapplication_tilecolor:         "#334D5C"                                      
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
+og_image:                           "http://makerbbq.com/assets/img/logo-144.png"
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
-# og_url:                           ""
-# og_site_name:                     ""
+og_title:                           "Maker BBQ"
+og_description:                     "Maker BBQ is a site dedicated to learning about grilling, smoking, and creating and modifying tools to that purpose."
+og_url:                             "http://makerbbq.com/"
+og_site_name:                       "Maker BBQ"
 
 
 #      _____            _       __   __  ___         ___
