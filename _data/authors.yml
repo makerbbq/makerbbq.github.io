@@ -5,5 +5,11 @@
 #
 # Ressource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 tim:
-    name: "Tim Rayburn"
-    url: http://TimRayburn.net/
+  name: "Tim Rayburn"
+  url: http://TimRayburn.net/
+devlin:
+  name: "Devlin Liles"
+  url: http://devlinliles.com/
+eric:
+  name: "Eric Burcham"
+  url: http://id10terror.ericburcham.com/
