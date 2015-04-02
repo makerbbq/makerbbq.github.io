@@ -9,19 +9,19 @@ title: "Maker BBQ"
 header:
    image_fullwidth: "coals-banner.png"
 widget-1:
-    title: "Blog & Portfolio"
-    url: '{{ site.url }}/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    title: "Our Equipment"
+    url: "/equipment/"
+    text: 'Learn about the Maker BBQ team''s current equipment, and the modifications they have made to improve their gear.'
     image: unsplash_9-302x182.jpg
 widget-2:
-    title: "Why use this theme?"
-    url: '{{ site.url }}/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
+    title: "Our Team"
+    url: '/team/'
+    text: 'From those with decades of experience, to those just getting started, our team has one thing in common: A love of BBQ and tinkering.'
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
-    title: "Download Theme"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    title: "Getting Started"
+    url: '/getting-started/'
+    text: 'Everyone has to start somewhere, if you''re new to this whole world and wondering where you should start, then this is a good place to begin.'
     image: github-303x182.jpg
 ---
 

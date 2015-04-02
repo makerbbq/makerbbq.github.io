@@ -2,9 +2,17 @@
   url: "/"
   side: left
 
-# - title: Getting Started
-#   url: "/getting-started/"
-#   side: left
+- title: Getting Started
+  url: "/getting-started/"
+  side: left
+
+- title: Our Equipment
+  url: "/equipment/"
+  side: left
+
+- title: Our Team
+  url: "/team/"
+  side: left
 
 # - title: "Templates"
 #   url: "/design/"
