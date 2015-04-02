@@ -1,39 +1,29 @@
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: youtube.com/c/MakerbbqChannel
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Maker BBQ's YouTube Channel"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/MakerBBQ
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Maker BBQ Twitter Account"
 
 - name: Facebook
-  url: http://www.facebook.com/phlow.media
+  url: https://www.facebook.com/makerbbq
   class: icon-facebook
-  title: "Lass uns Freunde sein!"
-
-- name: Soundcloud
-  url: http://soundcloud.com/phlow
-  class: icon-soundcloud
-  title: "Sounds und Downloads und mehr"
+  title: "Maker BBQ Facebook Page"
 
 - name: GitHub
   url: http://github.com/makerbbq
   class: icon-github
-  title: Our Code Repositories
+  title: Maker BBQ Repositories
 
 - name: Instagram
-  url: http://instagram.com/phlowmedia
+  url: http://instagram.com/makerbbq
   class: icon-instagram
-  title: "Bilder und Impressionen mit und ohne Filter..."
+  title: "Maker BBQ Instragram"
 
 - name: Pinterest
-  url: http://www.pinterest.com/phlowmedia/
+  url: http://www.pinterest.com/makerbbq/
   class: icon-pinterest
-  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
-
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+  title: "Maker BBQ Pintrest"
