@@ -26,7 +26,7 @@ baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/makerbbq/makerbbq.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
@@ -139,7 +139,7 @@ apple_touch_icon_ipad:           "/assets/img/touch-icon-ipad-76x.png"          
 apple_touch_icon_ipad_retina:    "/assets/img/touch-icon-ipad-retina-152x.png"    # iOS7 Size 152x152
 apple_touch_icon_precomposed:    "/assets/img/touch-icon-android-152x.png"        # iOS7 Size 152x152
 msapplication_tileimage:         "/assets/img/windows-8-tile-icon-144x.png"       # Windows 8 Tile 144x144
-msapplication_tilecolor:         "#334D5C"                                    # Windows 8 Tile Backgroundcolor
+msapplication_tilecolor:         "#334D5C"                                        # Windows 8 Tile Backgroundcolor
 
 
 #       ______                __                __
@@ -176,7 +176,7 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 # used in _includes/comments.html
 
-disqus_shortname: feelingresponsive
+disqus_shortname: makerbbq
 
 
 #      _____
