@@ -85,9 +85,9 @@ defaults:
       type: "pages"
     values:
       show_meta: true # Show metadata beneath all pages
-      # sidebar: right # Possible values › left, right › by default there will be no sidebar
+      sidebar: right # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "Tim Rayburn"
+      author: tim
       header:
          image_fullwidth: "coals-banner.png"
 
@@ -97,9 +97,11 @@ defaults:
       type: "posts"
     values:
       show_meta: true   # Show metadata beneath all posts
-      # sidebar: right       # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: "Tim Rayburn"
+      sidebar: right       # Possible values › left, right › by default there will be no sidebar
+      comments: true
+      author: tim
+      header:
+         image_fullwidth: "coals-banner.png"
 
 
 
