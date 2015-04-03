@@ -82,7 +82,7 @@ Ideally we'd like to see it slowly burn down all those logs to nothing but ash, 
 
 At 9:11am we finally fell below 240°F, so we opened the firebox to take a look.
 
-#### VIDEO GOES HERE
+<iframe width="1280" height="750" src="https://www.youtube.com/embed/wqGOrUvlqaE" frameborder="0" allowfullscreen></iframe>
 
 As you can see in the video, in my rush to setup this morning I had some logs leaning on the edge of the opening to the cookbox, this meant that as the logs below them were consumed, the did not properly fall and get consumed themselves.  So I've rearranged those logs and we'll see how long we can maintain temperature again with those.
 
@@ -93,7 +93,6 @@ From first hit at 250°F to our first fall below 240°F, we ran a total of nearl
 ## The Graph
 
 <img src="{{ site.urlimg }}stoker-test-1.png" />
-
 
 
 [weber-chimney]: http://www.amazon.com/Weber-7416-Rapidfire-Chimney-Starter/dp/B000WEOQV8/ref=sr_1_1?ie=UTF8&qid=1428060505&sr=8-1&keywords=Weber+Chimney&tag=timraybnet-20
