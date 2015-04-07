@@ -12,7 +12,7 @@ widget-1:
     title: "Our Equipment"
     url: "/equipment/"
     text: 'Learn about the Maker BBQ team''s current equipment, and the modifications they have made to improve their gear.'
-    image: unsplash_9-302x182.jpg
+    image: rivergrille.jpg
 widget-2:
     title: "Our Team"
     url: '/team/'

@@ -94,9 +94,4 @@ From first hit at 250°F to our first fall below 240°F, we ran a total of nearl
 
 <img src="{{ site.urlimg }}stoker-test-1.png" />
 
-
-[weber-chimney]: http://www.amazon.com/Weber-7416-Rapidfire-Chimney-Starter/dp/B000WEOQV8/ref=sr_1_1?ie=UTF8&qid=1428060505&sr=8-1&keywords=Weber+Chimney&tag=timraybnet-20
-[charcoal]: http://www.amazon.com/Kingsford-30524-Charcoal-Briquets-13-9-Pound/dp/B0086TBA74/ref=sr_1_2?ie=UTF8&qid=1428060829&sr=8-2&keywords=Kingsford+Charcoal+Briquets&tag=timraybnet-20
-[starter-cubes]: http://www.amazon.com/Weber-7417-FireStarters-Lighter-Cubes/dp/B001AN7RGG/ref=sr_1_18?ie=UTF8&qid=1428060634&sr=8-18&keywords=Charcoal&tag=timraybnet-20
-[stoker]: https://www.rocksbarbque.com/
-[StokerLog]: https://www.rocksbarbque.com/Applications.html
+{% include markdown-links.md %}
