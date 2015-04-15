@@ -1,3 +1,7 @@
+[//]: # (INTERNAL LINKS)
+
+[MakerBBQ]: http://makerbbq.com/
+
 [//]: # (GROCERY)
 
 [Smoked Spanish Paprika]: http://www.amazon.com/McCormick-Premium-Smoked-Paprika-Ounce/dp/B007YXV172/ref=sr_1_3?ie=UTF8&qid=1428035935&sr=8-3&keywords=smoked+paprika&tag=timraybnet-20

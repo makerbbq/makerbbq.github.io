@@ -17,4 +17,9 @@ categories:
 * 1 part [Garlic Powder]
 * 1 part [Onion Powder]
 
+# Process
+
+1. Mix all ingredients in a shaker bottle with enough headroom to mix thoroughly
+1. Spread liberally on any meat, works best with pork, chicken and other white meats.
+
 {% include markdown-links.md %}

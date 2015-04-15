@@ -17,7 +17,7 @@ widget-2:
     title: "Our Team"
     url: '/team/'
     text: 'From those with decades of experience, to those just getting started, our team has one thing in common: A love of BBQ and tinkering.'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    image: dallas-skyline-banner.jpg
 widget-3:
     title: "Getting Started"
     url: '/getting-started/'
