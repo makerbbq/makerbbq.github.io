@@ -11,10 +11,10 @@ categories:
 
 # Ingredients
 
-* [Black Pepper]
-* [Kosher Salt]
-* [Smoked Spanish Paprika]
-* [Garlic Powder]
-* [Onion Powder]
+* 3 parts [Black Pepper]
+* 3 parts [Kosher Salt]
+* 1 part [Smoked Spanish Paprika]
+* 1 part [Garlic Powder]
+* 1 part [Onion Powder]
 
 {% include markdown-links.md %}
