@@ -25,8 +25,8 @@ Given that the Stoker controls "all" of the Oxygen getting into the firebox, I s
 
 We ran this experiment starting at the wee hours of Friday April 3rd, 2015.  The fire was lit just before 5:00 AM, it was built as follows:
 
-* One [Weber Chimney][weber-chimney] full of [Kingsford Original Charcoal Briquets][charcoal]
-	* Started using [Weber FireStarters Lighter Cubes][starter-cubes]
+* One [Weber Chimney] full of [Kingsford Original Charcoal Briquets]
+	* Started using [Weber FireStarters Lighter Cubes]
 * Seven Logs of seasoned Post Oak from my log pile.
 
 ### Firebox Arrangement
@@ -42,7 +42,7 @@ In the firebox, from bottom to top, we had the following:
 
 ### Stoker Configuration
 
-We are running the [Stoker II Power Draft System][stoker] setup as so:
+We are running the [Stoker] setup as so:
 
 * Running software version 11.0.1.11
 * 10 cubic feet per minute blower coupled over and completely covering the air vents into the firebox.

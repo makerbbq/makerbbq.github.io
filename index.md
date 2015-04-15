@@ -12,7 +12,7 @@ widget-1:
     title: "Our Equipment"
     url: "/equipment/"
     text: 'Learn about the Maker BBQ team''s current equipment, and the modifications they have made to improve their gear.'
-    image: rivergrille.jpg
+    image: rivergrille-banner2.jpg
 widget-2:
     title: "Our Team"
     url: '/team/'
@@ -22,7 +22,7 @@ widget-3:
     title: "Getting Started"
     url: '/getting-started/'
     text: 'Everyone has to start somewhere, if you''re new to this whole world and wondering where you should start, then this is a good place to begin.'
-    image: github-303x182.jpg
+    image: getting-started-banner.png
 ---
 
 
