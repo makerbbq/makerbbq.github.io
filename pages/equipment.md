@@ -59,3 +59,11 @@ cooking Sous Vide, or to prevent freezer burn or dehydration as you
 freeze or refridgerate food.
 
 <img src="{{ site.urlimg }}foodsaver.jpg" />
+
+# Stoker Power Draft System
+
+We use the Stoker system for temperature management in both our RiverGrille
+and our Weber.  I'm a huge fan, and have blogged about this system several
+times.
+
+<img src="{{ site.urlimg }}stoker.jpg" />
