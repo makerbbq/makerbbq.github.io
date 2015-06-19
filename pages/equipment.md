@@ -27,3 +27,16 @@ With these changes, this smoker loses smoke in only three places:
 1. The Chimney
 1. The top of the Firebox
 1. The Grease port, when the chimney is greatly dampered
+
+# Weber Smokey Mountain 18.5"
+
+There are few more iconic pieces of backyard equipment than the
+Weber Smokey Mountain or WSM.  We currently have the 18.5" diameter unit, though
+we hope to add a 22.5" in the future.
+
+<img src="{{ site.urlimg }}wsm.jpg" />
+
+We've modified the WSM with sensor grommets that allow us to pass through
+thermometer wires without smashing them under the lid.  We've also added
+a modification that allows us to remove the central smoker part of the body
+and use it as a grill.
