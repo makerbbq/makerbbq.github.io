@@ -40,3 +40,22 @@ We've modified the WSM with sensor grommets that allow us to pass through
 thermometer wires without smashing them under the lid.  We've also added
 a modification that allows us to remove the central smoker part of the body
 and use it as a grill.
+
+# Anova Precision Cooker
+
+While we love BBQ, there are many other fine types of cooking.  The Anova
+Precision Cooker is a circulatory cooker which can be used for Sous Vide
+cooking.
+
+<img src="{{ site.urlimg }}wsm.jpg" />
+
+We added the Anova during a recent sale.  It allows some amazing options
+and is now my favorite way to reheat BBQ.
+
+# FoodSaver V4865 2-In-1 Vacuum Sealing System
+
+Sometimes you need to protect food from air or water, such as when you're
+cooking Sous Vide, or to prevent freezer burn or dehydration as you
+freeze or refridgerate food.
+
+<img src="{{ site.urlimg }}wsm.jpg" />
