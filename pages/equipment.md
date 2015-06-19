@@ -47,7 +47,7 @@ While we love BBQ, there are many other fine types of cooking.  The Anova
 Precision Cooker is a circulatory cooker which can be used for Sous Vide
 cooking.
 
-<img src="{{ site.urlimg }}wsm.jpg" />
+<img src="{{ site.urlimg }}anova.jpg" />
 
 We added the Anova during a recent sale.  It allows some amazing options
 and is now my favorite way to reheat BBQ.
@@ -58,4 +58,4 @@ Sometimes you need to protect food from air or water, such as when you're
 cooking Sous Vide, or to prevent freezer burn or dehydration as you
 freeze or refridgerate food.
 
-<img src="{{ site.urlimg }}wsm.jpg" />
+<img src="{{ site.urlimg }}foodsaver.jpg" />
