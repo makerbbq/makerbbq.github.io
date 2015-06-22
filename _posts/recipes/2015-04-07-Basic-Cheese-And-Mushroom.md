@@ -14,7 +14,7 @@ categories:
 * 1 can of [Cream of Mushroom Soup][]
 * 1/2 can of [Heavy Cream][]
 * 1/2 can of [Milk][]
-* 1 can of Grated [Cheddar Cheese][]
+* 1 cup of Grated [Cheddar Cheese][]
 
 # Process
 
