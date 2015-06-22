@@ -28,10 +28,10 @@ With these changes, this smoker loses smoke in only three places:
 1. The top of the Firebox
 1. The Grease port, when the chimney is greatly dampered
 
-# Weber Smokey Mountain 18.5"
+# Weber Smokey Mountain
 
 There are few more iconic pieces of backyard equipment than the
-Weber Smokey Mountain or WSM.  We currently have the 18.5" diameter unit, though
+[Weber Smokey Mountain][] or WSM.  We currently have the 18.5" diameter unit, though
 we hope to add a 22.5" in the future.
 
 <img src="{{ site.urlimg }}wsm.jpg" />
@@ -43,8 +43,8 @@ and use it as a grill.
 
 # Anova Precision Cooker
 
-While we love BBQ, there are many other fine types of cooking.  The Anova
-Precision Cooker is a circulatory cooker which can be used for Sous Vide
+While we love BBQ, there are many other fine types of cooking.  The
+[Anova Precision Cooker][] is a circulatory cooker which can be used for Sous Vide
 cooking.
 
 <img src="{{ site.urlimg }}anova.png" />
@@ -52,11 +52,13 @@ cooking.
 We added the Anova during a recent sale.  It allows some amazing options
 and is now my favorite way to reheat BBQ.
 
-# FoodSaver V4865 2-In-1 Vacuum Sealing System
+# FoodSaver 2-In-1 Vacuum Sealing System
 
 Sometimes you need to protect food from air or water, such as when you're
 cooking Sous Vide, or to prevent freezer burn or dehydration as you
-freeze or refridgerate food.
+freeze or refridgerate food.  For this we use our [FoodSaver] to seal up
+leftovers and prepare meats and vegetables for cooking in the
+[Anova Precision Cooker][].
 
 <img src="{{ site.urlimg }}foodsaver.jpg" />
 
@@ -67,3 +69,6 @@ and our Weber.  I'm a huge fan, and have blogged about this system several
 times.
 
 <img src="{{ site.urlimg }}stoker.jpg" />
+
+
+{% include markdown-links.md %}

@@ -29,12 +29,25 @@ Apple, Peach, or Cherry.
 Why Oak?  It has a mild flavor, and relatively light smokey-ness.  Other woods can
 be mixed in to add more flavor, but Oak is the source of heat.
 
-# The Offset Smoker
+# The Smoker
 
-Because we prefer wood fires, we tend to use Offset Smokers.  An offset smoker
-has two chambers, a fire box and a cook box.  The fire box has a fire, which produces
-smoke, which travels into the cook box and that indirect heat raises the temperature
-of the cook box.
+At [MakerBBQ][] we have two types of smokers, one is an Offset smoker, the other
+is a Vertical smoker.  If you're starting out, Vertical smokers are the best
+entry class smoker you can get.  They are relatively cheap new, can usually be picked
+up on Craigslist for even less, and are easier to use.  How are they easier to use?
+
+Two reasons, physics and fire.  Physics favors the vertical nature of the smoker,
+heat rises.  There is a much lower level of inefficiency in the amount of heat
+generated vs. heat received by the food.  The second reason verticals are easier
+is fire.  Most verticals don't have an all wood fire, they use a charcoal fire to
+generate the heat, but with wood blocks for generating the smoke.  In an offset,
+that is running all wood, you have to manage your heat vs smoke ratio.
+
+That said we prefer wood fires, and so we tend to use Offset Smokers for larger
+and longer cooks.  Since we own both, we wouldn't use the vertical for brisket.  
+An offset smoker has two chambers, a fire box and a cook box.  The fire box has
+a fire, which produces smoke, which travels into the cook box and that indirect
+heat raises the temperature of the cook box.
 
 # The Meat
 

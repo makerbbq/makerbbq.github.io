@@ -24,3 +24,11 @@
 
 [Stoker]: https://www.rocksbarbque.com/
 [StokerLog]: https://www.rocksbarbque.com/Applications.html
+
+[//]: # Other Equipment
+
+[Anova Precision Cooker]: http://www.amazon.com/Anova-Culinary-Precision-Immersion-Circulator/dp/B00UKPBXM4/ref=sr_1_1?ie=UTF8&qid=1434994426&sr=8-1&keywords=anova&tag=timraybnet-20
+
+[FoodSaver]: http://www.amazon.com/Foodsaver-Automatic-Vacuum-Sealing-System/dp/B00FXI5GDK/ref=sr_1_1?ie=UTF8&qid=1435004165&sr=8-1&keywords=FoodSaver+V4865&tag=timraybnet-20
+
+[Weber Smokey Mountain]: http://www.amazon.com/Weber-721001-Mountain-18-Inch-Charcoal/dp/B001I8ZTJ0/ref=sr_1_1?ie=UTF8&qid=1435004239&sr=8-1&keywords=WSM+18.5&tag=timraybnet-20
