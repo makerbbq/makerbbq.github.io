@@ -24,11 +24,3 @@ widget-3:
     text: 'Everyone has to start somewhere, if you''re new to this whole world and wondering where you should start, then this is a good place to begin.'
     image: getting-started-banner.png
 ---
-
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
