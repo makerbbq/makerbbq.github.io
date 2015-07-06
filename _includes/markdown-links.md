@@ -14,11 +14,13 @@
 [Milk]: http://www.amazon.com/Tuscan-Whole-Milk-Gallon-128/dp/B00032G1S0/ref=sr_1_2?ie=UTF8&qid=1428459463&sr=8-2&keywords=Milk&tag=timraybnet-20
 [Cheddar Cheese]: http://www.amazon.com/Tillamook-Reserve-Extra-Cheddar-Cheese/dp/B005JSEZKO/ref=sr_1_5?ie=UTF8&qid=1428459530&sr=8-5&keywords=Cheddar+Cheese&tag=timraybnet-20
 
-[//]: # (WEBER EQUIPMENT)
+[//]: # (EQUIPMENT)
 
 [Weber Chimney]: http://www.amazon.com/Weber-7416-Rapidfire-Chimney-Starter/dp/B000WEOQV8/ref=sr_1_1?ie=UTF8&qid=1428060505&sr=8-1&keywords=Weber+Chimney&tag=timraybnet-20
 [Kingsford Original Charcoal Briquets]: http://www.amazon.com/Kingsford-30524-Charcoal-Briquets-13-9-Pound/dp/B0086TBA74/ref=sr_1_2?ie=UTF8&qid=1428060829&sr=8-2&keywords=Kingsford+Charcoal+Briquets&tag=timraybnet-20
 [Weber FireStarters Lighter Cubes]: http://www.amazon.com/Weber-7417-FireStarters-Lighter-Cubes/dp/B001AN7RGG/ref=sr_1_18?ie=UTF8&qid=1428060634&sr=8-18&keywords=Charcoal&tag=timraybnet-20
+
+[Lighter]: http://www.amazon.com/BIC-Multi-Purpose-Lighter-Lighters/dp/B00GUQWAS8/ref=sr_1_4?ie=UTF8&qid=1435374920&sr=8-4&keywords=fireplace+lighter&tag=timraybnet-20
 
 [//]: # (ROCKS BARBQUE)
 
@@ -26,6 +28,8 @@
 [StokerLog]: https://www.rocksbarbque.com/Applications.html
 
 [//]: # Other Equipment
+
+[Offset Smoker]: http://makerbbq.com/equipment/#rivergrille-farmers-charcoal-grill-and-off-set-smoker
 
 [Anova Precision Cooker]: http://www.amazon.com/Anova-Culinary-Precision-Immersion-Circulator/dp/B00UKPBXM4/ref=sr_1_1?ie=UTF8&qid=1434994426&sr=8-1&keywords=anova&tag=timraybnet-20
 
