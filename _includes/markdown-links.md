@@ -13,6 +13,9 @@
 [Heavy Cream]: http://www.amazon.com/Horizon-Organic-Heavy-Whipping-Cream/dp/B00CHTUYW6/ref=sr_1_2?ie=UTF8&qid=1428459434&sr=8-2&keywords=Heavy+Cream&tag=timraybnet-20
 [Milk]: http://www.amazon.com/Tuscan-Whole-Milk-Gallon-128/dp/B00032G1S0/ref=sr_1_2?ie=UTF8&qid=1428459463&sr=8-2&keywords=Milk&tag=timraybnet-20
 [Cheddar Cheese]: http://www.amazon.com/Tillamook-Reserve-Extra-Cheddar-Cheese/dp/B005JSEZKO/ref=sr_1_5?ie=UTF8&qid=1428459530&sr=8-5&keywords=Cheddar+Cheese&tag=timraybnet-20
+[Curing Salt]: https://www.amazon.com/gp/product/B008X6KE0E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008X6KE0E&linkCode=as2&tag=timraybnet-20&linkId=0b08a41cb2308cd29123a3e8d48eff21
+[Maple Syrup]: https://www.amazon.com/gp/product/B002483SRI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002483SRI&linkCode=as2&tag=timraybnet-20&linkId=0a4e77ac62033d749c582e0f9db21b55
+[Dark Brown Sugar]: https://www.amazon.com/gp/product/B007FA1EBW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007FA1EBW&linkCode=as2&tag=timraybnet-20&linkId=d63e99de5afa9ac9b5980ed244bf0c67
 
 [//]: # (EQUIPMENT)
 
