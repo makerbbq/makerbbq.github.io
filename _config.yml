@@ -7,6 +7,9 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
+# Required Plugins
+plugins: [jekyll-paginate]
+
 # Title of your website
 title: "Maker BBQ"
 
