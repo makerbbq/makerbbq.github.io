@@ -10,23 +10,11 @@ permalink: "/equipment/"
 * TOC
 {:toc}
 
-# RiverGrille Farmer's Charcoal Grill and Off-Set Smoker
+# Klose Backyard Chef (20 inches deep, 50 inch main chamber)
 
-This beautiful off-set smoker was a gift from my good friend Devlin Liles after he upgraded to a trailer mounted unit that he is now using.
+Oh, Craigslist, how I do love you sometimes.  I had been introduced to the amazing design of the pits created by David Klose from http://bbqpits.com and very much wanted one, but I did not want to pay full retail, which can be quite expensive.  So I started saving up my pennies and watching Craigslist for a deal.  Low and behold, a few months later, in the Houston area someone posted this Backyard Chef.  I had several photos, but still had a local friend actually set his eyes upon it, I also spoke with David Klose who graciously gave me his opinion about what the pit might be worth in its current state.  He was a stand up guy about it all, and I couldn't be happier with the quality of product I get off this great smoker.  I immediately adapted it to be able to use my Stoker Power Draft system and have been very happy with the results.
 
-<img src="{{ site.urlimg }}rivergrille.jpg" />
-
-There have been some modifications made to it though.
-
-* The thermometer has been replaced, putting in an Old Country unit.
-* Nomex has been applied around the door to the cookbox helping to seal in the heat.
-* Latches have been installed to hold the cookbox door tightly shut.
-
-With these changes, this smoker loses smoke in only three places:
-
-1. The Chimney
-1. The top of the Firebox
-1. The Grease port, when the chimney is greatly dampered
+<img src="{{ site.urlimg }}KloseBackyardChef.jpg" />
 
 # Weber Smokey Mountain
 
@@ -64,7 +52,7 @@ leftovers and prepare meats and vegetables for cooking in the
 
 # Stoker Power Draft System
 
-We use the Stoker system for temperature management in both our RiverGrille
+We use the Stoker system for temperature management in both our Klose
 and our Weber.  I'm a huge fan, and have blogged about this system several
 times.
 
